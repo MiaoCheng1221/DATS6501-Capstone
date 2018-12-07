@@ -11,6 +11,7 @@ Download file ChengMiao_Capstone_Project.ipynb. And also have to data.csv.zip fi
 Open mac terminal, and run the comment list below:
 
 jupyter notebook ChengMiao_Capstone_Project.ipynb
+
 That will open in Chrome or Safari to show Jupyter Notebook and file.
 
 ## Data
