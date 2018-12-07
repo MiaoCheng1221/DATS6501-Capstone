@@ -1,5 +1,5 @@
 # DATS6501-Capstone
-Graduate Thesis - Capstone
+Cheng Miao - Graduate Thesis - Capstone
 
 ## Idea
 I propose to learn a new Deep Learning Framework and machine learning method that predicts the customer’s revenue based on data from the Google store.
