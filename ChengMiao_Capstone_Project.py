@@ -15,7 +15,7 @@ import json
 # Define COLUMNS
 JSON_COLUMNS= ['device', 'geoNetwork', 'totals', 'trafficSource']
 print ("Starting read data")
-data=pd.read_csv("/Users/richardmiao/Desktop/Capstone/all/data.csv",sep=',',header=0,                   converters={column:json.loads for column in JSON_COLUMNS})
+data=pd.read_csv("data.csv",sep=',',header=0,                   converters={column:json.loads for column in JSON_COLUMNS})
 print('Load Data in Json, that takes long time')
 print ("Done reading data")
 
